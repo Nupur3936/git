@@ -5,6 +5,7 @@ public class git {
 	{
 
 		System.out.println("a");
+		System.out.println("b");
 		
 	}
 
